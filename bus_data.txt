@@ -1,0 +1,40 @@
+050 031xxxxxxxx Gull_Center MUET 6
+Gull_Center 11:00AM
+Thandi_Sarak 11:07AM
+Rani_Bagh 11:15AM
+Qasim_Chowk 11:25AM
+Rajputana_Hospital 11:40AM
+MUET 11:55AM
+044 030xxxxxxxx Latifabad_U-5 MUET 5
+Latifabad_U-5 07:00AM
+Auto_Bahn 07:10AM
+Giddu_Chowk 07:20AM
+Qasim_Chowk 07:35AM
+MUET 07:50AM
+026 03XXXXXXXXX Qasimabad MUET 5
+Qasimabad 11:00AM
+Nasim_Nagar 11:10AM
+Ali_Palace 11:20AM
+Abdulla_Mall 11:35AM
+MUET 11:50AM
+036* 03XXXXXXXXX MUET Fateh_Chowk 7
+MUET 03:00PM
+Qasim_Chowk 03:15PM
+Giddu_Chowk 03:25PM
+Auto_Bahn 03:35PM
+Latifabad 03:45PM
+Muhammadi_Chowk 03:50PM
+Fateh_Chowk 04:00PM
+050* 03XXXXXXXX MUET Gull_Center 6
+MUET 05:00PM
+Rajputana_Hospital 05:15PM
+Qasim_Chowk 05:25PM
+Rani_Bagh 05:40PM
+Thandi_Sarak 05:50PM
+Gull_Center 06:00PM
+044* 03XXXXXXXXX MUET Latifabad_U-5 5
+MUET 05:00PM
+Qasim_Chowk 05:15PM
+Qiddu_Chowk 05:25PM
+Auto_Bahn 05:40PM
+Latifabad_U-5 06:00PM
